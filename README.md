@@ -10,3 +10,9 @@ In this template, you can expect to find the code for:
 - How to hide a slide without deleting the content (search for keyword: \exclude)
 
 View this file directly on Overleaf: https://www.overleaf.com/read/zxyvvtsmxszt
+
+More presentation templates: 
+
+https://github.com/diHnguyen/PresentationTemplate2
+
+https://github.com/diHnguyen/PresentationTemplate2
