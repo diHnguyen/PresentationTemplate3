@@ -1,4 +1,4 @@
-# OR Presentation Template (Clemson Purple)
+# OR Presentation Template 3 (Clemson Purple)
 
 A special thanks to Murwan Siddig for sharing this template.
 
