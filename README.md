@@ -13,6 +13,6 @@ View this file directly on Overleaf: https://www.overleaf.com/read/zxyvvtsmxszt
 
 More presentation templates: 
 
-https://github.com/diHnguyen/PresentationTemplate2
+https://github.com/diHnguyen/PresentationTemplate
 
 https://github.com/diHnguyen/PresentationTemplate2
